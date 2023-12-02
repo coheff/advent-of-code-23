@@ -10,3 +10,4 @@ https://adventofcode.com/2023
 Day 1: 55834\
 Day 1 Part 2: 53221\
 Day 2: 2563\
+Day 2 Part 2: 70768\
